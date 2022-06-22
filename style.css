@@ -1,0 +1,21 @@
+body{
+    background-color: #0c0717;
+    
+}
+
+.col h1{
+    color: gold;
+}
+
+.foot h6{
+    color: aquamarine;
+}
+.modal-content{
+    background-color: #0c0717;
+}
+.modal-title{
+    color: greenyellow;
+}
+/* .modal-body{
+    background-color: rgb(4, 8, 0);
+} */
